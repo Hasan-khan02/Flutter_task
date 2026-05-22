@@ -2,7 +2,6 @@
 
 ## 👤 Student Info
 - Name: Hasan Khan
-- ID: YOUR_ID_HERE
 
 ---
 
