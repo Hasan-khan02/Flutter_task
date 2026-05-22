@@ -1,16 +1,38 @@
-# flutter_application_1
+# Flutter Course API Integration
 
-A new Flutter project.
+## 👤 Student Info
+- Name: Hasan Khan
+- ID: YOUR_ID_HERE
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 API Used
+- JSONPlaceholder (Fake REST API for testing)
+- Example Base URL:
+  https://jsonplaceholder.typicode.com/
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📖 Reference Documentation
+- Official Guide:
+  https://jsonplaceholder.typicode.com/guide
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌿 Branch Name
+- feature/course-api-integration
+- GitHub Repo:
+  https://github.com/Hasan-khan02/Flutter_task/tree/feature/course-api-integration
+
+---
+
+## 🔗 API Endpoint Used
+https://jsonplaceholder.typicode.com/posts
+
+---
+
+## 🚀 Features Implemented
+- GET Courses (Fetch Data)
+- POST Course (Create Data)
+- PUT Course (Update Data)
+- DELETE Course (Remove Data)
