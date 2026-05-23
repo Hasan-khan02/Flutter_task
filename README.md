@@ -1,16 +1,15 @@
-# flutter_application_1
+# Flutter Assignment 1
 
-A new Flutter project.
+## Student Information
+- Name: Hasan Javed Khan
+- ID: SE221033
 
-## Getting Started
+## Project Description
+This Flutter application was developed as part of Assignment 1. The project demonstrates Flutter UI development and basic application functionality.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GitHub Repository
+https://github.com/Hasan-khan02/Flutter_task
